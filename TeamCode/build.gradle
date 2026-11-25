@@ -13,6 +13,9 @@ buildscript {
 
 apply plugin: 'com.android.application'
 
+// there should be 2 or 3 more lines that start with 'apply plugin:' here
+apply plugin: 'dev.frozenmilk.sinister.sloth.load'
+
 //
 // build.gradle in TeamCode
 //
